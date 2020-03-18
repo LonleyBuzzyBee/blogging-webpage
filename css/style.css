@@ -1,10 +1,13 @@
 body{
-
-}
-.container{
-
+  text-align: center;
+  color: darkslategrey;
+  background-image: url("https://media0.giphy.com/media/KbfT5F72cVylc72o5i/giphy.gif?cid=790b7611827133cf23c6d83b7dbf8ff5fd7fbfd46f162610&rid=giphy.gif");
 }
 .paragraph{
+  margin-top:200px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
   color: darkslategray;
   text-align: center;
   font-family: sans-serif;  
