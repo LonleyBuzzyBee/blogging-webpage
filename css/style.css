@@ -5,5 +5,7 @@ body{
 
 }
 .paragraph{
-  
+  color: darkslategray;
+  text-align: center;
+  font-family: sans-serif;  
 }
